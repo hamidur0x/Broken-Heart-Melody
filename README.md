@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot-link.jpg)  
+![screenshot](Screenshot%20at%202025-05-23%2020-20-26.png)  
 *A dark-themed musical-lyric showcase with animated floating hearts.*
 
 ---
@@ -28,8 +28,8 @@
 ## 🧑‍💻 Author
 
 **Hamidur Rahman**  
-Aspiring Software Engineer & Web Developer  
-_“Building dreams with code and emotions with design.”_
+Web Vulnerability Exploiter & Web Developer  
+_“Building, breaking (ethically), and learning every day”_
 
 ---
 
