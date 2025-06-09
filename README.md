@@ -21,7 +21,8 @@
 
 ![screenshot](Screenshot%20at%202025-05-23%2020-20-26.png)  
 *A dark-themed musical-lyric showcase with animated floating hearts.*
-[Link](https://hamidur0x.github.io/Broken-Heart-Melody/
+
+[Link](https://hamidur0x.github.io/Broken-Heart-Melody/)
 
 ---
 
