@@ -5,7 +5,7 @@
 
 1. Download or clone the repository.
 2. Ensure `1.mp3` is in the same directory as `index.html`.
-3. Open `index.html` in your web browser.
+3. Open `index.html` in your web browser or open with vscode live server.
 4. Click the **PLAY SONG** button to start.
 
 ---
@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 Author
 
-**Hamidur Rahman**  
+**[Hamidur Rahman](https://github.com/hamidur0x)**  
 Web Vulnerability Exploiter & Web Developer  
 _“Building, breaking (ethically), and learning every day”_
 
