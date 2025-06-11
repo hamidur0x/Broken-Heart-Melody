@@ -23,7 +23,7 @@ cd Broken-Heart-Melody
 
 ---
 
-## 📸 Preview
+## 📸 Preview and Link
 
 ![screenshot](/file/ss.png)  
 *A dark-themed musical-lyric showcase with animated floating hearts.*
